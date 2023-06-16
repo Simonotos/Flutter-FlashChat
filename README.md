@@ -9,4 +9,4 @@ This app was created following the course named : <a href="https://www.udemy.com
 
 # Images of the App:
 
-![Welcome Screen]("https://raw.githubusercontent.com/Simonotos/Flutter-FlashChat/blob/main/appImages/1.jpg")
+<img src="https://raw.githubusercontent.com/Simonotos/Flutter-FlashChat/blob/main/appImages/1.jpg">
