@@ -11,9 +11,9 @@ This app was created following the course named : <a href="https://www.udemy.com
 <div style="display: inline-block">
 
    <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/1.jpg" width="300" height="500">
-
+   <span style="width=20px">
    <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/2.jpg" width="300" height="500">
-
+   <span style="width=20px">
    <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/3.jpg" width="300" height="500">
 
 </div>
