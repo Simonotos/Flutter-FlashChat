@@ -10,11 +10,11 @@ This app was created following the course named : <a href="https://www.udemy.com
 # Images of the App:
 <div style="display: inline-block">
 
-   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/1.jpg" width="300" height="450">
+   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/1.jpg" width="300" height="500">
 
-   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/2.jpg" width="300" height="450">
+   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/2.jpg" width="300" height="500">
 
-   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/3.jpg" width="300" height="450">
+   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/3.jpg" width="300" height="500">
 
 </div>
 
