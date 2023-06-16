@@ -8,4 +8,4 @@ This app was created following the course named : <a href="https://www.udemy.com
 
 # Images of the App:
 
-![Alt text]('../appImages/1.jpg')
+![Alt text]('appImages/jpg')
