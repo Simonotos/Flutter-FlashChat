@@ -9,13 +9,13 @@ This app was created following the course named : <a href="https://www.udemy.com
 
 # Images of the App:
 <div class="display: inline-block">
- <picture>
+ <picture class="padding-right: 20px">
   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/1.jpg" width="200" height="350">
  </picture>
- <picture>
+ <picture class="padding-right: 20px">
   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/2.jpg" width="200" height="350">
  </picture>
-  <picture>
+  <picture class="padding-right: 20px">
   <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/3.jpg" width="200" height="350">
  </picture>
 </div>
