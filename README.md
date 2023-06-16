@@ -8,16 +8,16 @@
 This app was created following the course named : <a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/">"Complete Flutter App Development Bootcamp with Dart"</a> by Dr. Angela Yu and her team "The App Brewery"
 
 # Images of the App:
-<div style="display: table-row">
-  <div style="padding-right: 20px; display: table-cell;">
+<div style="display: inline-block">
+  <div style="padding-right: 20px;">
    <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/1.jpg" width="200" height="350">
   </div>
  
-  <div style="padding-right: 20px; display: table-cell;">
+  <div style="padding-right: 20px;">
    <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/2.jpg" width="200" height="350">
   </div>
  
-  <div style="display: table-cell;">
+  <div>
    <img src="https://github.com/Simonotos/Flutter-FlashChat/blob/main/appImages/3.jpg" width="200" height="350">
   </div>
  
